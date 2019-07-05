@@ -2,31 +2,7 @@
 
 TODO: ここに自分の作成したprocessing codeの簡単な内容を紹介してください．
 
-## Installation
 
-TODO: この項目はclone, pushが終了したら消してください．
-
-githubでdaddygongon/processing_templatesをforkしてください．
-その後，
-```
-> mkdir /home/user_name
-> ssh-keygen
-> ssh-copy-id user_name@host_url
-> cd e:
-> git clone git@github.com:USER_NAME/processing_templates.git
-```
-でcloneしてください．
-
-そこへprocessing codeをcopyした後，
-```
-> git add -A
-> git commit -m 'first commit'
-> git push origin master
-```
-してください．
-: git remote -v
-で出てくるアドレスをLUNAに提出してください．
-このファイル(README.md)の修正も忘れずに．
 
 ## Usage
 
